@@ -1,0 +1,23 @@
+diffusion模型
+https://zhuanlan.zhihu.com/p/599887666
+
+stable diffusion模型
+https://zhuanlan.zhihu.com/p/609022600
+https://zhuanlan.zhihu.com/p/600251419
+
+attention机制
+https://zhuanlan.zhihu.com/p/380892265
+
+controlnet论文
+https://www.bilibili.com/video/BV1fs4y177nu
+
+（重要）自然图像上色研究综述
+http://www.yndxxb.ynu.edu.cn/yndxxbzrkxb/article/doi/10.7540/j.ynu.20220445
+
+图像评价指标：
+https://www.bilibili.com/video/BV1eG4y1D73A/
+https://www.cnblogs.com/pengkunfan/p/3947529.html
+
+计算图像梯度：
+https://www.bilibili.com/video/BV1YZ4y1s7Ra
+https://blog.csdn.net/zhiTjun/article/details/114286569

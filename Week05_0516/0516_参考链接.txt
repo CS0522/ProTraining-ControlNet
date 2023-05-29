@@ -1,0 +1,23 @@
+attention机制：
+https://blog.csdn.net/tg229dvt5i93mxaq5a6u/article/details/78422216
+https://www.bilibili.com/video/BV1SA41147uA
+https://zhuanlan.zhihu.com/p/149490072
+
+conditioning是怎么加入到运算的：
+https://zhuanlan.zhihu.com/p/583124756
+
+Text2Image：
+https://youtu.be/JbfcAaBT66U
+https://zhuanlan.zhihu.com/p/616195288
+https://zhuanlan.zhihu.com/p/614513450?utm_id=0
+https://zhuanlan.zhihu.com/p/617134893
+
+CLIP：
+https://www.bilibili.com/video/BV1SL4y1s7LQ
+https://blog.csdn.net/qq_45752541/article/details/127780047
+
+Defusion Model：
+https://youtu.be/azBugJzmz-o
+
+Auto-encoder：
+https://zhuanlan.zhihu.com/p/121468861

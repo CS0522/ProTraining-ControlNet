@@ -1,0 +1,21 @@
+self-attention：
+https://www.cnblogs.com/nickchen121/p/16470711.html
+https://www.cnblogs.com/nickchen121/p/16514033.html
+https://mp.weixin.qq.com/s?__biz=Mzk0MzIzODM5MA==&mid=2247484067&idx=1&sn=cae143a546985413507d3bc750f5f7d6&chksm=c337bf3af440362c67f9ac26e82a5a537c1ea09c9041dfc7cfeae35fe93a9b797700bafe7db4&scene=21#wechat_redirect
+
+fine-tuning：
+https://zhuanlan.zhihu.com/p/612992813?utm_id=0
+https://zhuanlan.zhihu.com/p/611310582
+
+textual inversion：
+https://textual-inversion.github.io/
+https://huggingface.co/docs/diffusers/training/text_inversion
+
+dreambooth：
+https://dreambooth.github.io/
+https://blog.csdn.net/bikahuli/article/details/128402178
+https://zhuanlan.zhihu.com/p/616245445
+
+lora：
+https://finisky.github.io/lora/
+

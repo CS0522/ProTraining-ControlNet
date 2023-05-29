@@ -1,0 +1,11 @@
+这个我认为是代码执行顺序分析
+https://blog.csdn.net/u012193416/article/details/129956546
+这个是整个流程解析，包括流程图
+https://blog.csdn.net/xian0710830114/article/details/129194419
+这个是 hugging face 官号的教程（感觉没啥用）
+https://zhuanlan.zhihu.com/p/619491679
+这个是 ctrlnet 1.0 版的搭建教程
+https://www.chiphell.com/thread-2493713-1-1.html
+参数详解
+https://blog.csdn.net/qcwlmqy/article/details/130355876
+

@@ -1,0 +1,17 @@
+扩散模型
+https://zhuanlan.zhihu.com/p/505257039
+
+ControlNet
+https://juejin.cn/post/7210369671656505399
+https://zhuanlan.zhihu.com/p/608471266
+https://blog.csdn.net/u012193416/article/details/129375229
+https://cloud.tencent.com/developer/article/2224020
+
+Canny 边缘检测
+https://blog.csdn.net/minjiuhong/article/details/89320225
+https://blog.csdn.net/saltriver/article/details/80545571
+https://blog.csdn.net/qq_40243295/article/details/104391755
+
+Hed 边缘检测
+https://blog.csdn.net/qq_34923437/article/details/105921099
+https://zhuanlan.zhihu.com/p/28492837
