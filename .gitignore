@@ -1,18 +1,19 @@
-论文 & 笔记/(CLIP) Learning Transferable Visual Models From Natural Language Supervision.pdf
-论文 & 笔记/(ControlNet) Adding Conditional Control to Text-to-Image Diffusion Models.pdf
-论文 & 笔记/(HyperNetwork) HyperNetworks.pdf
-论文 & 笔记/(Stable Diffusion) High-Resolution Image Synthesis with Latent Diffusion Models.pdf
-论文 & 笔记/(U-Net) Convolutional Networks for Biomedical.pdf
-论文 & 笔记/(无引导上色) Unsupervised Diverse Colorization via GAN.pdf
-论文 & 笔记/(综述) 自然图像上色研究综述.pdf
-论文 & 笔记/Draggan.pdf
-论文 & 笔记/DreamBooth.pdf
-论文 & 笔记/Hierarchical Text-Conditional Image Generation with CLIP Latents.pdf
-论文 & 笔记/LoRA.pdf
-论文 & 笔记/Recurrent Models of Visual Attention.pdf
-论文 & 笔记/Textual Inversion.pdf
+论文&笔记/(CLIP) Learning Transferable Visual Models From Natural Language Supervision.pdf
+论文&笔记/(ControlNet) Adding Conditional Control to Text-to-Image Diffusion Models.pdf
+论文&笔记/(HyperNetwork) HyperNetworks.pdf
+论文&笔记/(Stable Diffusion) High-Resolution Image Synthesis with Latent Diffusion Models.pdf
+论文&笔记/(U-Net) Convolutional Networks for Biomedical.pdf
+论文&笔记/(无引导上色) Unsupervised Diverse Colorization via GAN.pdf
+论文&笔记/(综述) 自然图像上色研究综述.pdf
+论文&笔记/Draggan.pdf
+论文&笔记/DreamBooth.pdf
+论文&笔记/Hierarchical Text-Conditional Image Generation with CLIP Latents.pdf
+论文&笔记/LoRA.pdf
+论文&笔记/Recurrent Models of Visual Attention.pdf
+论文&笔记/Textual Inversion.pdf
 2023专业前沿课题汇总.pptx
 汇报模板.pptx
 课题9_线稿上色.pptx
 Training_Data/test_imgs
 .vscode/
+Dataset/danbooru_49489.zip
