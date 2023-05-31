@@ -21,7 +21,7 @@ open_file_path = "./prompts/"
 然后写入 output_file 文件中
 """
 def get_prompt():
-    # open the output file
+    # open the output temp file
     output_file = open(output_file_path, 'w', encoding = 'utf-8')
     # 循环遍历
     for file in os.listdir(open_file_path):
@@ -30,11 +30,15 @@ def get_prompt():
         current_file = open(open_file_path + file)
         # get the one line of the file
         line = current_file.readline()
+        # 去除逗号，去除反斜杠
+        # line = line.replace(",", "")
+        line = line.replace("\\", "")
         # print(open_file_path + file + line)
         # write into the output file in format
         output_file.write(concat1 + filename + concat2 + filename + concat3 + line + concat4 + "\n")
         # close 
         current_file.close()
+
     # close 
     output_file.close()
 
