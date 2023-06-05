@@ -1,0 +1,14 @@
+陈实
+项目主导和任务分配、ControlNet、Stable Diffusion 基本原理理解、服务器环境搭建、实现动漫线稿上色、建立数据集并进行训练测试和分析
+
+刘浩宇
+ControlNet、Stable Diffusion 基本原理和模型结构的理解、DragGAN 与 ControlNet 的区别总结
+
+高晨超
+学习 Attention 机制、分析 Diffusion 模型数学原理、了解 Text-to-Image 结构
+
+陈戒
+搜集 fine-tuning 相关方法的论文并进行学习讲解、整理总结小组对于上色任务的见解
+
+杨铠宁
+DragGAN 与 ControlNet 的区别总结、研究源代码整体流程以及参数含义、实现动漫线稿上色
