@@ -17,3 +17,4 @@
 Training_Data/test_imgs
 .vscode/
 Dataset/danbooru_49489.zip
+Training_Data/my_logs/train_danbooru_new.log
