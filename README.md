@@ -8,14 +8,37 @@
 
 ## 每周内容
 ### Week02
+（实际上对后续工作作用不大hhh）
+* 前置知识了解
+* 有引导上色、无引导上色
+* 4 种基于不同类型的上色
+* Canny 边缘检测
+* HED 边缘检测
+* ControlNet 初步认识
+* 后续课题研究计划
 
 ### Week04
+* 图像评价指标
+* Sobel 算子计算图像梯度
+* Stable Diffusion
+* ControlNet 原理
 
 ### Week05
+* Conditioning
+* Attention 机制
+* CLIP
+* Text-to-Image
+* Auto-Encoder
+* Diffusion Model
 
 ### Week06
+* Attention 机制
+* Fine-Tuning
 
 ### Week07
+* DragGAN & Diffusion Model
+* 代码逻辑结构
+* 训练实验
 
 ### Week08
 * 总结
